@@ -3,3 +3,4 @@ spacy
 en-core-web-sm
 groq
 pandas
+spacy-transformers
