@@ -6,7 +6,7 @@ from groq import Groq
 import pandas as pd
 
 # Constants
-MODEL_PATH = "/home/atliq/Music/poc_spacy/fine_tuned_model"
+MODEL_PATH = "fine_tuned_model"
 API_KEY = "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"
 
 # Initialize Groq client
