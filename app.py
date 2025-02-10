@@ -1,11 +1,5 @@
 # Import necessary libraries
 import spacy
-from spacy.cli import download
-import streamlit as st
-
-# Ensure the model is downloaded and loaded
-download('en_core_web_sm')
-nlp = spacy.load('en_core_web_sm')
 import os
 import json
 import streamlit as st
