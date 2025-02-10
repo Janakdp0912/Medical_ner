@@ -2,7 +2,7 @@ streamlit==1.16.0
 spacy==3.2.1
 groq==0.1.1
 pandas==1.3.3
-en-core-web-sm
+en-core-web-sm==3.2.1
 spacy-transformers
 
 
